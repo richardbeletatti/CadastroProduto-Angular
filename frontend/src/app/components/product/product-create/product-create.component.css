@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 20px 15px 0px 0px;
+    color:rgb(184,134,11);
+    background-color: black;
+}
+
+.title-mat {
+    color:rgb(184,134,11);
+}

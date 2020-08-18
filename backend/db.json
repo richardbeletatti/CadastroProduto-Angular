@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta Bic Preta",
+      "price": 5.95
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Lapis Preto Básico",
+      "price": "1.50",
+      "id": 4
+    },
+    {
+      "name": "Shampoo",
+      "price": "13.99",
+      "id": 5
+    },
+    {
+      "name": "creme",
+      "price": "3.99",
+      "id": 6
+    }
+  ]
+}

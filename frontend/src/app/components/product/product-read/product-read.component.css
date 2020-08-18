@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+}
+
+.edit {
+    margin-right: 10px;
+}
+
+.edit > i {
+    color:rgb(184,134,11);
+}
+
+.delete > i {
+    color:rgb(184,134,11);
+}
+
+.mat-header-cell {
+    color:rgb(184,134,11);
+    font: 1em sans-serif;
+}
+
+.mat-cell {
+    color:rgb(184,134,11);
+}
